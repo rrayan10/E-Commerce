@@ -272,3 +272,4 @@ export const getProductsByBrand = (brandId: string): Product[] =>
 
 export const getFeaturedProducts = (): Product[] => 
   products.filter(p => p.featured);
+ 
