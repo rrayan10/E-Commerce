@@ -1,5 +1,6 @@
 Modern E-Commerce Store
 - A sleek, fast, and responsive E-commerce frontend application. Built using React, Vite, and styled with Shadcn/UI and Tailwind CSS.
+- Live demo: https://e-commerce-phi-five-32.vercel.app/
 
 Features
 - Modern UI/UX: Clean and intuitive design using Shadcn/UI components.
