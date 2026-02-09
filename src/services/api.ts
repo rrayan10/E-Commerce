@@ -495,3 +495,4 @@
    getById: (addressId: string) => 
      apiCall<{ status: string; data: APIAddress }>(`/addresses/${addressId}`),
  };
+ 
